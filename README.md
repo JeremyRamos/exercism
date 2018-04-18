@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sieve
 
 Use the Sieve of Eratosthenes to find all the primes from 2 up to a given
@@ -56,3 +57,7 @@ Sieve of Eratosthenes at Wikipedia [http://en.wikipedia.org/wiki/Sieve_of_Eratos
 
 ## Submitting Incomplete Solutions
 It's possible to submit an incomplete solution so you can see how others have completed the exercise.
+=======
+# exercism
+challenges to improve problem solving skills
+>>>>>>> c9e961eed85a21584c154a6bf290c7a7c7f4ba55
